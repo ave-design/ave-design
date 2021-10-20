@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ave-design
-- 👀 I’m interested in ...
+- 👀 I’m interested in TypeScript, С++,  JavaScript, Java, C#, Kotlin, Swift, Python, Delphi.
 - 🌱 I’m currently learning at SUSU on first course
 - 💞️ I’m looking to collaborate On any interesting the Internet - the project
 - 📫 How to reach me: mail to: ave-design@list.ru
